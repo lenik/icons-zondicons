@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: zondicons
+Source: https://github.com/dukestreetstudio/zondicons.git
+
+Files: *
+Copyright: Upstream authors
+License: MIT
+
+Files: debian/*
+Copyright: 2026 Lenik <icons-zondicons@bodz.net>
+License: MIT

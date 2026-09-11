@@ -1,0 +1,5 @@
+icons-zondicons (1.0.0-1) unstable; urgency=medium
+
+  * Packaging as icons-zondicons with iconlibutils launcher and preview index.
+
+ -- Lenik <icons-zondicons@bodz.net>  Fri, 11 Sep 2026 20:13:42 +0800
