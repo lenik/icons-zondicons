@@ -1,4 +1,4 @@
-# Installed by icons-zondicons — discovered as /usr/share/iconlibutils/library/zondicons/
+# Installed by icons-zondicons as /usr/share/iconlibutils/library/zondicons
 name=zondicons
 type=auto
 path=/usr/share/icons-zondicons
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://www.zondicons.com/
 description=Zondicons
 package=icons-zondicons
+icons_root=orig
+faiss_index=/usr/share/icons-zondicons

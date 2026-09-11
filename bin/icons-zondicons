@@ -1,2 +1,2 @@
 #!/bin/sh
-exec iconlibutils -l zondicons "$@"
+exec iconlib -l zondicons "$@"

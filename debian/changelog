@@ -1,5 +1,7 @@
-icons-zondicons (1.0.0-1) unstable; urgency=medium
+icons-zondicons (1.0.0) unstable; urgency=medium
 
-  * Packaging as icons-zondicons with iconlibutils launcher and preview index.
+  * Packaging as icons-zondicons with iconlibutils launcher.
+  * Install prebuilt index/ web preview and FAISS faiss.* beside icons.
+  * library.iconlib: icons_root + faiss_index for natural-language search.
 
- -- Lenik <icons-zondicons@bodz.net>  Fri, 11 Sep 2026 20:13:42 +0800
+ -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 03:46:00 +0800

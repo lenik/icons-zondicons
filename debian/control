@@ -1,12 +1,12 @@
 Source: icons-zondicons
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-zondicons@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://www.zondicons.com/
-Vcs-Browser: https://github.com/lenik/pkg-icons-zondicons
-Vcs-Git: https://github.com/lenik/pkg-icons-zondicons.git
+Vcs-Browser: https://github.com/lenik/icons-zondicons
+Vcs-Git: https://github.com/lenik/icons-zondicons.git
 Rules-Requires-Root: no
 
 Package: icons-zondicons
@@ -17,4 +17,4 @@ Description: Zondicons
  Zondicons
  .
  Provides icon assets under /usr/share/icons-zondicons, a preview index, and a
- launcher `icons-zondicons` (`iconlibutils -l zondicons`).
+ launcher `icons-zondicons` (`iconlib -l zondicons`).
