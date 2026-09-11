@@ -1,0 +1,34 @@
+= icons-zondicons(1)
+{project-author} <{project-email}>
+v{project-version}, {project-year}
+:doctype: manpage
+:manmanual: User Commands
+:mansource: icons-zondicons
+:man-linkstyle: blue R <>
+:nofooter:
+
+== Name
+
+icons-zondicons - Zondicons
+
+== Synopsis
+
+*icons-zondicons* [_OPTION_]...
+
+== Description
+
+Zondicons.
+
+== Options
+
+*-h, --help*::
+  Show a short usage summary and exit.
+
+== Author
+
+Written by {project-author} <{project-email}>.
+
+== Copyright
+
+Copyright (C) {project-year}.
+License AGPL-3.0-or-later.
