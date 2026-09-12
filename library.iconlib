@@ -8,4 +8,4 @@ homepage=https://www.zondicons.com/
 description=Zondicons
 package=icons-zondicons
 icons_root=orig
-faiss_index=/usr/share/icons-zondicons
+faiss_index=faiss
